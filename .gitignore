@@ -1,0 +1,16 @@
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# DSH 本地缓存
+.dsh/
+.cache/
+
+# 生成的卡片输出与临时目录
+*.cards.md
+.tmp-*/
